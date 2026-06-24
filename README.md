@@ -6,17 +6,16 @@
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
   <a href="https://drive.google.com/file/d/1BvDGXKzMk0VowHwpPPt1r8R1hGh-9o3A/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-View%20Resume-success?style=for-the-badge" />
   </a>
-
   <a href="mailto:nehalahmmedbhuiyan2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Nehal-Ahmmed&style=for-the-badge" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nehal-Ahmmed\&style=for-the-badge)
+
 
 ---
 

@@ -230,7 +230,7 @@ A Flutter-based personal finance application.
 
 📧 Email: **[nehalahmmedbhuiyan2003@gmail.com](mailto:nehalahmmedbhuiyan2003@gmail.com)**
 
-💼 LinkedIn: **YOUR_LINKEDIN_URL**
+💼 LinkedIn: [**Nehal Ahmmed**](https://www.linkedin.com/in/nehal-ahmmed-75554630b)
 
 🌐 Portfolio: **https://portfolio-manager-ae5bc.web.app/#/nehalahmmedbhuiyan2003**
 

@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nehal Ahmmed
 
-### Junior Software Engineer | Full-Stack Application Developer
+### Full-Stack Application Developer
 
 <p align="left">
   <a href="YOUR_LINKEDIN_URL">
